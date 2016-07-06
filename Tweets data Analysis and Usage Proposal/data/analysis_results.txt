@@ -1,0 +1,4 @@
+Football presence: 0.04180123088172567
+Climbing presence: 0.01776247638778868
+Volleyball presence: 0.028852598866613857
+Total instances: 32822

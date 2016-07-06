@@ -1,0 +1,54 @@
+Seminar Evaluation
+
+Seminar on Social Media Content Analysis
+
+
+The attendants of the seminar must write a brief report in English (around 10 pages, excluding figures and references), 
+individually or (preferably) in groups of two people, on the following topic.
+
+During this week we have explored in the seminar different ways of analysing the textual content (and the meta-data) 
+of a set of tweets to address issues such as the semantic annotation of different kinds of entities 
+(people, locations, organisations), the automatic discovery of the main topics of discussion, the analysis 
+of spatio-temporal information, the obtention of health-related knowledge and the analysis of the polarity 
+of the opinions on a given topic.
+
+Your task is to complete the following two activities:
+
+* Think about 3 data sets of tweets that you could obtain by using for example the Twitter API. 
+You can assume that you can retrieve tweets using filtering criteria such as the language of the tweet, 
+the senders of the tweet, a particular string (word, hashtag, mention, URL) present in the tweet, the 
+location from which the tweet was sent or the time in which the tweet was sent. These data sets must be 
+clearly different from the ones used as examples during the seminar. They must also be substantially 
+different among themselves, so that you can cover many diverse situations; for example, you can think 
+about the following dimensions of analysis:
+
+- Small set of tweets (thousands) vs large set of tweets (millions).
+
+- Fixed set of tweets vs constant streaming of tweets.
+
+- Domain-specific tweets vs generic tweets.
+
+- Location-related tweets vs worldwide tweets.
+
+- Uni-language vs multi-language data sets.
+
+* For each of these data sets, think about the possibility of applying the different analytic techniques 
+and tools discussed in the seminar. For each applicable method, explain, at least, the following aspects:
+
+- Why it could be interesting/appropriate to apply the method/tool to that data set.
+
+- Which would be the main problems to be faced in the analysis of the data.
+
+- Which would be the more interesting results that could be obtained, and how they could be presented to the users.
+
+- Which would be the kinds of users more interested on those results.
+
+Note that you are not requested to make a summary of the content of the seminar, but rather to think about 
+how different methodologies could be applied in different specific circumstances to discover interesting 
+knowledge. It is not necessary to implement anything; however, it will be very positively considered if 
+you can actually retrieve one of the data sets you have defined, apply one of the methods/tools seen in 
+the seminar and show some results (in this case you can extend the 10-pages length as necessary).
+
+The reports must be sent, as a PDF file, to antonio.moreno@urv.cat, not later than June 12th, 2016. 
+This deadline can not be further extended. Similar reports from different groups will not be accepted.
+
